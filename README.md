@@ -1,6 +1,6 @@
 # Code-a-Pookalam
 
-A creative Pookkalam (flower rangoli) made using **p5.js**.  
+A creative Pookkalam made using **p5.js**.  
 This project celebrates tradition with code, generating colorful layered floral patterns on a digital canvas.  
 
 ---
